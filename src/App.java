@@ -44,7 +44,7 @@ import java.util.*;
  * 10
  */
 
-//SAMPLE USAGE: A-
+//SAMPLE USAGE: A
 /**
  * The magic number is 10. Shh! Don't tell anyone
  * Enter a guess:
@@ -77,6 +77,10 @@ public class App {
         int magicNumber = getMeARandomNumber();
         System.out.println("The magic number is "+ magicNumber + ". Shh! Don't tell anyone");
         Scanner reader = new Scanner(System.in);
+
+        //WRITE YOUR CODE IN THE SPACE BELOW
+
+        
     }
 
 
